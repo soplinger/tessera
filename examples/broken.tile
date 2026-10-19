@@ -1,0 +1,6 @@
+# Deliberately broken: @colour is not a directive, and the row on line 6 is one cell too long.
+@name Broken demo
+@colour red
+ox
+xo
+oxo

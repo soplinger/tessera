@@ -1,0 +1,6 @@
+# Two-colour checkerboard: one 2x2 tile, repeated forever.
+@name Checkerboard
+@expect p4m
+@note Rotations about a cell centre and mirrors through cell centres keep the colours.
+ox
+xo
